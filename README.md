@@ -6,4 +6,4 @@ It contains information of names from year 1880 to 2016 and their frequency of u
 
 What's in the name.ipynb contains some of the data analysis on the above mentioned data.
 
-notebook.ipynb is the same project on DataCamp.
+notebook.ipynb is the same project with more analysis.
